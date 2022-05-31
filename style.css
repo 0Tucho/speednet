@@ -122,7 +122,7 @@ header nav ul li:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Documents/VSC/tutorial-1/hero-bgnd.jpg");
+    ,url("/hero-bgnd.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
